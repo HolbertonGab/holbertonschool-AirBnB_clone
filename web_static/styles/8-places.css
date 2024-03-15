@@ -48,7 +48,9 @@ h2 {
     margin: 10px;
 }
 
-.max_guest i, .number_rooms i, .number_bathrooms i {
+.max_guest img, .number_rooms img, .number_bathrooms img {
+    width: 30px;
+    height: 30px;
     margin-right: 5px;
 }
 
